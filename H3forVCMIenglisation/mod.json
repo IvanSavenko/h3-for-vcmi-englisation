@@ -1,0 +1,8 @@
+{
+	"name" : "H3 for VCMI englisation",
+	"description" : "Patch changes any Heroes3 localisation into english.",
+	"version" : "1.0",
+	"author" : "avatar",
+	"contact" : "",
+	"modType" : "Utility"
+}
