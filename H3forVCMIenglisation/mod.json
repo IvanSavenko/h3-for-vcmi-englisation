@@ -1,8 +1,13 @@
 {
 	"name" : "H3 for VCMI englisation",
 	"description" : "Patch changes any Heroes3 localisation into english.",
-	"version" : "1.0",
+	"version" : "1.1",
 	"author" : "avatar",
 	"contact" : "",
-	"modType" : "Utility"
+	"modType" : "Utility",
+	"changelog" :
+    {
+		"1.1"   : [ "zipped content folder" ],
+		"1.0"   : [ "Initial version" ]
+    }
 }
