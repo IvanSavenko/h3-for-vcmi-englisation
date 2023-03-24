@@ -1,8 +1,15 @@
 {
-	"name" : "H3 for VCMI englisation",
-	"description" : "Patch changes any Heroes3 localisation into english.",
-	"version" : "1.0",
+	"name" : "English translation",
+	"description" : "English translation of Heroes of Might and Magic III: Complete Edition",
+	"version" : "1.2",
 	"author" : "avatar",
-	"contact" : "",
-	"modType" : "Utility"
+	"contact" : "https://vcmi.eu/",
+	"modType" : "Translation",
+	"language" : "english",
+	
+	"translations" : [
+		"config/h3forvcmienglisation/game.json",
+		"config/h3forvcmienglisation/maps.json",
+		"config/h3forvcmienglisation/campaigns.json"
+	]
 }
